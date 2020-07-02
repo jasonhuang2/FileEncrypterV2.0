@@ -12,6 +12,15 @@ On Unix:
   - Navigate to file on terminal
   - type in "java -jar FileEncrypterV2.0.jar"
   
+On Windows:
+  - Navigate to file on cmd
+  - type in "java -jar FileEncrypterV2.0.jar"
   
+  
+  
+  
+  
+  
+  ![alt text](https://github.com/jasonhuang2/FileEncrypterV2.0/blob/master/pic1.png?raw=true)
   
   
