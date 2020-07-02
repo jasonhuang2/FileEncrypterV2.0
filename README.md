@@ -22,5 +22,7 @@ On Windows:
   
   
   ![alt text](https://github.com/jasonhuang2/FileEncrypterV2.0/blob/master/pic1.png?raw=true)
+  ![alt_text](https://github.com/jasonhuang2/FileEncrypterV2.0/blob/master/pic2.png?raw=true)
+  
   
   
