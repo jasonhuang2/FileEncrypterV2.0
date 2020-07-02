@@ -11,3 +11,7 @@ On MAC OS X:
 On Unix:
   - Navigate to file on terminal
   - type in "java -jar FileEncrypterV2.0.jar"
+  
+  
+  
+  
